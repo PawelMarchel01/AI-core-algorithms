@@ -8,4 +8,4 @@ This entire repository is dedicated to the basics of AI.
 - DFS and BFS
 - NN and KNN
 - A* (with optimal and sub-optimal heuristics)
-- ant algorithm
+- ant colony
