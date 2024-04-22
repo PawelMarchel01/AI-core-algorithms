@@ -1,4 +1,4 @@
-# AI algorithms
+# AI core algorithms
 
 This entire repository is dedicated to core AI algorithms.
 
