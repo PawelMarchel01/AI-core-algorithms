@@ -9,5 +9,5 @@ This entire repository is dedicated to the basics of AI.
 - BFS
 - NN
 - KNN
-- A* (with optimal and sub-optimal heuristics)
+- A* (with optimal and non-optimal heuristics)
 - ant colony
