@@ -5,7 +5,7 @@ This entire repository is dedicated to core AI algorithms.
 1. **TSP**: here is a solution to the TSP using various artificial intelligence methods. You will find here:
 
 - DFS/BFS
-- NN?KNN
+- NN/KNN
 - A* (with optimal and non-optimal heuristics)
 - ant colony
 
