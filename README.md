@@ -1,6 +1,6 @@
-# AI-basics
+# AI algorithms
 
-This entire repository is dedicated to the basics of AI.
+This entire repository is dedicated to core AI algorithms.
 
 **1.TSP**: here is a solution to the TSP using various artificial intelligence methods. You will find here:
 
