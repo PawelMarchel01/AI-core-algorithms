@@ -11,5 +11,5 @@ This entire repository is dedicated to core AI algorithms.
 - A* (with optimal and non-optimal heuristics)
 - ant colony
 
-Before executing any of the above algorithms, execute "Generating distance matrix".
+  Note: Before executing any of the above algorithms, execute "Generating distance matrix".
 
