@@ -11,3 +11,5 @@ This entire repository is dedicated to core AI algorithms.
 
   Note: Before executing any of the above algorithms, execute "Generating distance matrix".
 
+2. **Genetic_Algorithm**: In this folder you will find the use of a genetic algorithm to create work schedules.
+
