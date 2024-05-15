@@ -13,7 +13,7 @@ This entire repository is dedicated to core AI algorithms.
 
 2. **Genetic_Algorithm**: In this folder you will find the use of a genetic algorithm to create work schedules.
 
-3. **PSO**: Particle Swarm Optimization for finding the minimum of f(x,y)
+3. **PSO**: Particle Swarm Optimization for finding the minimum of f(x,y).
 
 
 
