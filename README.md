@@ -9,8 +9,6 @@ This entire repository is dedicated to core AI algorithms.
 - A* (with optimal and non-optimal heuristics)
 - ant colony
 
-  Note: Before executing any of the above algorithms, execute "Generating distance matrix".
-
 2. **Genetic_Algorithm**: In this folder you will find the use of a genetic algorithm to create work schedules.
 
 3. **PSO**: Particle Swarm Optimization for finding the minimum of f(x,y).
