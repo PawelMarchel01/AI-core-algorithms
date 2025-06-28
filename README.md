@@ -27,7 +27,7 @@ A Genetic Algorithm (GA) is used to generate optimal or near-optimal work schedu
 - Operators: Selection, Crossover, and Mutation.
 - Fitness is based on meeting constraints and minimizing schedule conflicts.
 - 🟩 Final output includes **Gantt chart visualizations** (screenshots provided).
-- ![Gantt Chart](00.Images/GAN.jpg)
+  ![Gantt Chart](00.Images/GAN.jpg)
   
 ---
 
@@ -40,7 +40,7 @@ Particle Swarm Optimization (PSO) is applied to find the minimum of a mathematic
   - The global best known position
 - ✨ The optimization process is visualized using an animated **GIF** showing particle movement over iterations.
 
-- ![Particle Swarm Optimization](00.Images/PSO.gif)
+  ![Particle Swarm Optimization](00.Images/PSO.gif)
   
 ---
 
