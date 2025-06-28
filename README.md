@@ -27,7 +27,7 @@ A Genetic Algorithm (GA) is used to generate optimal or near-optimal work schedu
 - Operators: Selection, Crossover, and Mutation.
 - Fitness is based on meeting constraints and minimizing schedule conflicts.
 - 🟩 Final output includes **Gantt chart visualizations** (screenshots provided).
-- ![Gantt Chart](00.Images/GAN.jpeg)
+- ![Gantt Chart](00.Images/GAN.jpg)
   
 ---
 
