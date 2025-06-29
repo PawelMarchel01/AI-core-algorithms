@@ -1,6 +1,6 @@
 # 🤖 AI Core Algorithms
 
-This repository is dedicated to implementing core Artificial Intelligence algorithms from scratch. It is designed for educational purposes and experimentation with various AI-based approaches to optimization and search problems.
+This repository is dedicated to implementing core Artificial Intelligence algorithms from scratch. It is designed for educational purposes and experimentation with various AI-based approaches.
 
 ---
 
