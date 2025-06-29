@@ -44,6 +44,34 @@ Particle Swarm Optimization (PSO) is applied to find the minimum of a mathematic
   
 ---
 
+### 4. **Fuzzy Logic – Tip Prediction & SVM**
+
+Applications of fuzzy logic in regression and classification tasks:
+
+- 🍽️ **Fuzzy TSK Model**:  
+  A 0-order Takagi-Sugeno-Kang inference system that predicts tip amounts (0–15%) based on food and service quality (0–10).  
+  Uses triangular/trapezoidal membership functions and fuzzy rules.
+
+- 🧪 **SVM vs Fuzzy SVM**:  
+  Comparison of standard SVM with its fuzzy variant, which is more robust to noisy data.  
+  Evaluated on synthetic datasets with linear, polynomial, and RBF kernels.
+
+---
+
+### 5. **Logic Gates – Differentiable & Evolutionary Models**
+
+Exploring logic-based neural architectures for classification and network discovery:
+
+- 🔗 **Differentiable Logic Gates (DLG)**:  
+  A custom neural network trained on the **MONK dataset**, using differentiable logic gates instead of standard activations.  
+  Highlights the interpretability of logic-inspired decision boundaries in gradient-based learning.
+
+- 🧬 **Logic Gate Neural Network + GA (LGNN)**:  
+  A neural network made entirely of logic gates (AND, OR, XOR, NOT), evolved via a **Genetic Algorithm** to match a target network.  
+  Demonstrates how GAs can reverse-engineer logical structures from behavior alone.
+
+---
+
 ## 👨‍💻 Author
 
 **Paweł Marchel**  
